@@ -1,5 +1,7 @@
 from flask import Flask, Response
+
 import captcha
+
 
 app = Flask(__name__)
 
