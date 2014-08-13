@@ -1,5 +1,5 @@
-from flask import Flask, request, Response
-import os, captcha
+from flask import Flask, Response
+import captcha
 
 app = Flask(__name__)
 
