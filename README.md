@@ -2,9 +2,13 @@ Captcha
 =======
 Generate captchas.
 
+Example
+======
+![Example Captcha](https://github.com/jasonharrison/Captcha/blob/master/example.jpg?raw=true)
+
 Usage
 =======
-```
+```python
 from flask import Flask, Response
 import captcha
 
